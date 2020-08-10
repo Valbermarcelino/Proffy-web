@@ -12,13 +12,13 @@
 
 ### Prints do funcionamento:
 
-![Readimg/Untitled 1.png](Readimg/Untitled.png)
+![Readimg/Untitled 1.png](src/assets/Readimg/Untitled.png)
 
-![Versa%CC%83o%20mobile%20do%20Proffy%200b17e55f29ed4986b314536e8b6a9ce7/Untitled%201.png](Readimg/Untitled%201.png)
+![Versa%CC%83o%20mobile%20do%20Proffy%200b17e55f29ed4986b314536e8b6a9ce7/Untitled%201.png](src/assets/Readimg/Untitled%201.png)
 
-![Versa%CC%83o%20mobile%20do%20Proffy%200b17e55f29ed4986b314536e8b6a9ce7/Untitled%202.png](Readimg/Untitled%202.png)
+![Versa%CC%83o%20mobile%20do%20Proffy%200b17e55f29ed4986b314536e8b6a9ce7/Untitled%202.png](src/assets/Readimg/Untitled%203.png)
 
-![Versa%CC%83o%20mobile%20do%20Proffy%200b17e55f29ed4986b314536e8b6a9ce7/Untitled%203.png](Readimg/Untitled%203.png)
+![Versa%CC%83o%20mobile%20do%20Proffy%200b17e55f29ed4986b314536e8b6a9ce7/Untitled%203.png](src/assets/Readimg/Untitled%202.png)
 
 ---
 
