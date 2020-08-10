@@ -1,44 +1,38 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Versão mobile do Proffy
 
-## Available Scripts
+## Descrição:
 
-In the project directory, you can run:
+- Desenvolvido em React na Next Level Week 2 da Rocketseat, usando React Native com Expo
+- Ao clicar no botão de contato o app consegue mandar uma mensagem no Whatsapp do celular
+- Os professores favoritos ficam salvos na memória interna do celular
 
-### `yarn start`
+### Pra rodar:
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- de um yarn start no server que esta no meu git como Proffy-server e depois de um yarn start no neste projeto
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+### Prints do funcionamento:
 
-### `yarn test`
+![Versa%CC%83o%20mobile%20do%20Proffy%200b17e55f29ed4986b314536e8b6a9ce7/Untitled.png](Versa%CC%83o%20mobile%20do%20Proffy%200b17e55f29ed4986b314536e8b6a9ce7/Untitled.png)
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![Versa%CC%83o%20mobile%20do%20Proffy%200b17e55f29ed4986b314536e8b6a9ce7/Untitled%201.png](Versa%CC%83o%20mobile%20do%20Proffy%200b17e55f29ed4986b314536e8b6a9ce7/Untitled%201.png)
 
-### `yarn build`
+![Versa%CC%83o%20mobile%20do%20Proffy%200b17e55f29ed4986b314536e8b6a9ce7/Untitled%202.png](Versa%CC%83o%20mobile%20do%20Proffy%200b17e55f29ed4986b314536e8b6a9ce7/Untitled%202.png)
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![Versa%CC%83o%20mobile%20do%20Proffy%200b17e55f29ed4986b314536e8b6a9ce7/Untitled%203.png](Versa%CC%83o%20mobile%20do%20Proffy%200b17e55f29ed4986b314536e8b6a9ce7/Untitled%203.png)
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Alguns comandos importantes
 
-### `yarn eject`
+fontes do google:
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+- expo install expo-font @expo-google-fonts/archivo @expo-google-fonts/poppins
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+comandos yarn:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+- yarn react-app nome --template typescript
+- yarn add react-router-dom → utilizado pra navegação atualmente
+- yarn add @types/react-router-dom -D
+- yarn start → para iniciar
+- yatn add axious
+- comando de instalar React expo no site do React
