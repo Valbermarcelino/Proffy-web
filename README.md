@@ -28,9 +28,8 @@ comandos yarn:
 - yarn react-app [nome] --template typescript
 ```
 
-
-```bash
 no package.json:
+```bash
  "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build", -> 
